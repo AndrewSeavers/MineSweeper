@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\C#",
+    "\\C#\\minesweeper",
+    "\\C#\\minesweeper\\minesweeper"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\C#\\minesweeper\\minesweeper\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }
